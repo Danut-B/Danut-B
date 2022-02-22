@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Bizau Danut.
 - 👀 I’m interested in Full-stack developing.
 - 🌱 I’m currently learning Full-stack developer.
-- 💞️ I’m looking to collaborate on Caut sa colaborez la proiecte.
-- 📫 How to reach me on LinkedIn.
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me on https://linktr.ee/BizauDanut
 
 <!---
 Danut-B/Danut-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
